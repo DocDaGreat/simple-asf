@@ -1,0 +1,2 @@
+1. Open "Command Prompt" As administrator
+2. Copy the path into Command Prompt and put "./test.exe"
